@@ -1,4 +1,4 @@
-# GroceryTiem
+# GroceryTime
 
 GroceryTiem is a simple and convenient grocery shopping app that helps you manage your grocery list on the go. With GroceryTiem, you can easily create, organize, and track your shopping list, making your grocery shopping experience a breeze.
 
