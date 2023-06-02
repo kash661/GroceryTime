@@ -1,6 +1,6 @@
 # GroceryTime
 
-GroceryTime is a simple and convenient grocery shopping app that helps you manage your grocery list on the go. With GroceryTi,e, you can easily create, organize, and track your shopping list, making your grocery shopping experience a breeze.
+GroceryTime is a simple and convenient grocery shopping app that helps you manage your grocery list on the go. With GroceryTime, you can easily create, organize, and track your shopping list, making your grocery shopping experience a breeze.
 
 ## Features
 
